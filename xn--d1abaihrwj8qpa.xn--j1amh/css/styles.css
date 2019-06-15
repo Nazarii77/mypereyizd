@@ -1,0 +1,64 @@
+.container{
+font-size:120%;
+}
+.table-header{
+
+  background-color:   #ff9800;     
+  color: #FFF;
+  border: none;
+  font-size: 22px;
+  letter-spacing: 1px; 
+  margin: 5px; 
+  width: 100%;
+  text-align: center;
+ }
+ table{
+width: 100%;
+    border-collapse: separate;
+
+ }
+
+td, th {
+   padding-left: 10px;
+   border: 1px solid #EAEAEA;
+} 
+ 
+.about .moto-text_normal {
+    font-size: 20px;
+    margin: 0 50px 0 50px;
+}
+
+@media (max-width: 1039px)
+.moto-spacing-bottom-large {
+    padding-bottom: 30px;
+    	font-size: 20px;		
+}
+@media (min-width: 1040px)
+.moto-spacing-top-large {
+    padding-top: 30px;
+    	font-size: 20px;		
+}
+.moto-spacing-right-auto {
+    padding-right: initial;
+
+}
+.moto-spacing-left-auto {
+    padding-left: initial;
+}
+.moto-spacing-bottom-large {
+    padding-bottom: 80px;
+}
+.moto-spacing-top-large {
+    padding-top: 70px;
+}
+.moto-widget {
+    position: relative;
+}
+
+
+@media screen and (max-width: 800px){
+.moving .moto-text_normal, .about .moto-text_normal {
+    font-size: 14px;
+    margin: 0 10px 0 10px;
+			} 
+}

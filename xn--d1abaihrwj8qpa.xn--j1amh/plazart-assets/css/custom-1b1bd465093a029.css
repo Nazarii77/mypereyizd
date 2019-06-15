@@ -1,0 +1,75 @@
+.container-fluid { max-width: 100%!important; }
+     .container, .fix-width { max-width: 100%!important; }
+div .plazart-list li i,div ul.list li i, div .tz-shop-item .blog-carousel-desc h4,  div .connect-item span i,
+ div .tzser2-item:hover h3, div .tzser2-item a.tzser2-readmore,
+div .tzser2-item:hover span i, div .single-information ul li a, div div.tzser3-item:hover span i,
+div .tz-video-content h3 span, div.rating a.icon-star, div.rating a.ui-rating-star,
+div .tzprice,div.rating > .rating-item:hover span:before, div.rating > .rating-item:hover ~ a span:before, div.rating > .voted:before,
+div.rating > .rating-item:hover:before, div.rating > .rating-item:hover ~ .rating-item:before, div.rating a.ui-rating-hover:before,
+div.rating a.ui-rating-full:before, .hikashop_products_listing ul.hikashop_product_list li .shop-list-item .hikashop_product_stock a.hikashop_cart_button:hover,
+.hikashop_products_listing ul.hikashop_product_list .shop-item-version3 .shop-list-item .hikashop_product_stock a.hikashop_cart_button:hover,
+.hikashop_products_listing .hikashop_product_listlist_style2 li .shop-list-item .hikashop_product_stock a.hikashop_cart_button:hover,
+.hikashop_products_listing .hikashop_product_listlist_style2 .shop-item-version3 .shop-list-item .hikashop_product_stock a.hikashop_cart_button:hover,
+div .shop-detail-content .price, div .tz-shop-img a, div .tz-shop-img a i
+{
+    color:#fc6000;
+}
+#tz-right .tz-module h3.module-title, #tz-left .tz-module h3.module-title,
+ul.pagination-list span, ul.pagination-list a:hover, ul.pagination-list a:focus, ul.pagination-list a:active
+{
+border-color:#fc6000 !important;
+}
+div #detailTab > li.active > a{
+border-top:3px solid #fc6000;
+}
+div .tz-shop-img:hover:after, div .Recent-Post li .recent-img:after{
+    background:rgba(252,96,0,0.5);
+}
+
+body div .tzmasterbutton, div #comments_form button.btn, div a.tzreadmore, div .tzbuttom-take,
+div .tzser2-item span, div .tzbutton-readmore, div .tzfilter a.selected, div #tz_options .tzfilter a.selected,
+div .tzProductsViewmore a, div .tzaccordion h6.active i, .tz_multi_item .progress .progress-bar,
+div .tz-gallery, div .tz-link, div .tz-our-team .owl-controls .active span, div .team-social a:hover,
+div .btn, #tz-bottom-wrapper div .tzsubmit-form, div .tzbutton-slider, div div.tzser3-item span,
+div .pricing-item li.pricing-header small, div .pricing-item li.pricing-footer a,
+div .hikashop_module .hikashop_filter_main_div .hikashop_cart_button, div .hikashop_filter_module .hikashop_filter_main_div .hikashop_cart_button,
+.detail-fullwidth .tzquantity .btn-shop a.hikashop_cart_button, div .tz-our-team .owl-controls .owl-page:hover span
+
+{
+    background:#fc6000;
+}
+
+.plazart-megamenu .navbar-nav > li > a{
+    color:#ffffff;
+}
+.plazart-megamenu .navbar-nav .active > a,
+.plazart-megamenu .navbar-nav .open > a,
+.plazart-megamenu .navbar-nav > li.open > a,
+.plazart-megamenu .navbar-nav > li > a:hover,
+.plazart-megamenu .navbar-nav a:hover,
+.plazart-megamenu .navbar-nav > li > a:focus,
+.plazart-megamenu .navbar-nav > li > a:active,
+.tzheader2 .plazart-megamenu .navbar-nav .active > a,
+.tzheader2 .plazart-megamenu .navbar-nav > li.open > a,
+div nav.navbar .plazart-megamenu .navbar-nav a:hover{
+   color:#ffffff;
+}
+.plazart-megamenu .dropdown .mega-dropdown-menu{
+    background:#222222;
+}
+.plazart-megamenu .mega-nav > li a{
+    color:#cbcbcb;
+}
+nav.navbar .plazart-megamenu .mega-nav > li a:hover, nav.navbar .plazart-megamenu .mega-nav > li a:focus,
+nav.navbar .plazart-megamenu .mega-nav > li a:active{
+    background:#fc6000;
+}
+nav.navbar .plazart-megamenu .mega-nav > li a:hover, nav.navbar .plazart-megamenu .mega-nav > li a:focus,
+nav.navbar .plazart-megamenu .mega-nav > li a:active{
+    color:#ffffff;
+}
+.plazart-megamenu .dropdown.border .mega-dropdown-menu .mega-inner ul li a,
+.plazart-megamenu .dropdown .mega-dropdown-menu .mega-col-nav .mega-inner{
+    border-color:#2c2c2c;
+}
+

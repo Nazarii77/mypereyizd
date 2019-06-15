@@ -1,0 +1,25 @@
+﻿/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/Lato300.hxd') format('woff2');
+  
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Lato Regular'), local('Lato-Regular'), url('../fonts/Latoregular.hxd') format('woff2');
+ 
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url('../fonts/Lato700.hxd');
+  
+}
+

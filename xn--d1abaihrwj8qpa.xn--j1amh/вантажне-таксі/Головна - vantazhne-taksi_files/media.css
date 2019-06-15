@@ -1,0 +1,121 @@
+@media only screen and (max-width: 1200px){
+    .slider_block .slide .post_text .post_content{
+        max-width: 100%;
+    }
+    .slider_block .slide .post_text .post_content a{
+        margin: 30px auto;
+    }
+    .slider_block .slide .post_text .post_content p , .slider_block .slide .post_text .post_content h2{
+        text-align: center;
+    }
+    .inform_section .form form input{
+        width: 229px;
+    }
+}
+@media only screen and (max-width: 1024px){
+    .top_header .logo , .top_header .langs{
+        width: 100%;
+    }
+    .top_header .phone , .top_header .e-adress , .top_header .part_time{
+        width: 30%;
+        margin: 10px auto;
+    }
+    .main_header ul li:first-child a {
+        padding-left: 15px;
+    }
+    .main_header .zakaz a{
+        margin: 0px auto;
+        float: none;
+    }
+    .advantages ul li{
+        padding: 30px 10px !important;
+        background: transparent !important;
+        text-align: center !important;
+        font-size:15px;
+    }
+    .services h2.title::after{
+        margin: 30px auto 0;
+    }
+    .inform_section .about_us h2, .inform_section .form h2{
+        font-size: 16px;
+    }
+    .inform_section .about_us h2::after, .inform_section .form h2::after{
+        margin: 20px auto;
+    }
+    .inform_section .form form input {
+        margin: 0 auto 20px !important;
+        display: block;
+    }
+    .inform_section .form form textarea , .inform_section .form form select{
+        max-width: 229px;
+        margin: 0 auto 20px !important;
+        display: block;
+    }
+    .feed_backs #owl-demo .item .feed_back_name .avatar, .feed_backs #owl-demo .item .feed_back_name .autor{
+        display: block;
+    }
+    .category_content .left_menu{
+        max-width: 300px;
+        float: none;
+        margin: 5px auto 15px;
+        display: none;
+    }
+    .category_content .left_menu a{
+        text-align: center;
+    }
+
+}
+@media only screen and (max-width: 767px){
+    .top_header .logo , .top_header .langs{
+        width: 100%;
+        padding-left:0;
+        margin-bottom:5px;
+        background-position: left 50px center;
+    }
+    .top_header .phone , .top_header .e-adress , .top_header .part_time{
+        width: 30%;
+    }
+    .slider_block .slide .post_text .post_content{
+        max-width: 100%;
+    }
+    .slider_block .slide .post_text .post_content a{
+        margin: 30px auto;
+    }
+    .main_header ul li a{
+        padding: 19px 8px !important;
+    }
+    .main_header .zakaz a{
+        font-size:10px;
+    }
+    footer h4.foot_title{
+        font-size: 17px;
+    }
+
+}
+@media only screen and (max-width: 600px){
+    .top_header .logo , .top_header .phone , .top_header .e-adress , .top_header .part_time , .top_header .langs{
+        background-position: left 20px center;
+        width: 100%;
+    }
+    .menu-btn{
+        display: block;
+    }
+
+    .inform_section .about_us, .inform_section .form{
+        padding-left:10px !important;
+        padding-right:10px !important;
+    }
+    footer .copyright .live , footer .copyright .copy_text{
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .main_content{
+        padding:0;
+    }
+    .main_content .cat_posts{
+        max-width: 260px;
+        margin: 5px auto;
+        float: none;
+    }
+}
